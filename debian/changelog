@@ -1,3 +1,9 @@
+sojourner (0.2.4) fremantle; urgency=low
+
+  * Desktop Summit 2011. (Thanks, Olivier Le Thanh Duong)
+
+ -- Will Thompson <will@willthompson.co.uk>  Thu, 04 Aug 2011 13:37:15 +0100
+
 sojourner (0.2.3) fremantle; urgency=low
 
   * Added conference data for Rencontres Mondiales du Logiciel Libre / Libre
