@@ -1,6 +1,6 @@
 Source: sojourner
 Priority: optional
-Maintainer: Will Thompson <will@willthompson.co.uk>
+Maintainer: YOUR NAME HERE
 Build-Depends: debhelper, cdbs, python2.5, python-central
 XS-Python-Version: all
 
@@ -11,7 +11,6 @@ Section: user/navigation
 Depends: python2.5, python-gobject (>= 2.16), python-hildon, python-notify,
          python-osso, python-dbus
 XS-Python-Version: all
-XSBC-Bugtracker: mailto:will@willthompson.co.uk
 Description: Desktop Summit 2011 schedule browser
  Sojourner allows you to browse the schedule for the 2011 Desktop Summit,
  a joint conference organised by the GNOME and KDE communities in Berlin,
